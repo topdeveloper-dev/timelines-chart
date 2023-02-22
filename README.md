@@ -20,6 +20,8 @@ Check out the examples:
 
 ## Quick start
 
+
+
 ```js
 import TimelinesChart from 'timelines-chart';
 ```
